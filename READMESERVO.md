@@ -51,4 +51,4 @@ The Smart Automatic Safety Gate successfully demonstrates how an ultrasonic sens
 
 **RESULT**  
 ![RESULT](RESULTSERVO.jpeg)
-![RESULT](RESULTSERVO2.jpeg)
+![RESULT](RESULTSERVO2.png)
